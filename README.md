@@ -14,7 +14,7 @@ Lévi-Stauss, C. (2013) ‘The Culinary Triangle’, in C. Counihan and P.V. Est
 
 London Image Institute (2020) *Green Color Psychology*. Available at: https://londonimageinstitute.com/green-color-psychology/#:~:text=Optimism%20%E2%80%93%20The%20color%20green%20evokes,of%20someone%20who%20is%20optimistic. (Accessed: December 2023).
 
-Parves (2023) *Body language: Hands on hips Meaning*. Available at: https://www.psychmechanics.com/body-language-hands-resting-on-hips/ (Accessed: December 2023).
+Parves, H (2023) *Body language: Hands on hips Meaning*. Available at: https://www.psychmechanics.com/body-language-hands-resting-on-hips/ (Accessed: December 2023).
 
 Sebeok, T. A. (2001) *Signs: An Introduction to Semiotics*. Second Edition. Toronto, Buffalo, and London: University of Toronto Press, p.11.
 
