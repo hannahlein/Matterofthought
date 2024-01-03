@@ -1,8 +1,8 @@
-### Retracing the mental and physical residues of cleaning across space and time ###
+# Retracing the mental and physical residues of cleaning across space and time #
 
 This repository contains the data that was analysed for a project on the significance of cleaning across time and its role in establishing what it means to be a “good housewife”. This project is part of the module “The Matter of Thought” at the London Interdisciplinary School. 
 
-# Bibliography #
+## Bibliography ##
 
 Cherry (2023) ‘What Does the Colour Green Mean?’, *verywell mind*, 20 November. Available at: https://www.verywellmind.com/color-psychology-green-2795817#:~:text=Typically%2C%20it%20symbolizes%20life%2C%20fertility,to%20God%20and%20the%20heavens%29. (Accessed: December 2023).
 
